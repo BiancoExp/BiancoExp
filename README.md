@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Bianco — Desarrollador de Scripts para FiveM
+# 👋 ¡Hola! Soy Bianco 
 
 🎯 Apasionado por el desarrollo de scripts para **FiveM**, especializado en **QBCore** y **ESX**.  
 🚀 En constante evolución, siempre aprendiendo y creando nuevas soluciones.
